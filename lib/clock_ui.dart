@@ -8,7 +8,6 @@ import 'components/two_point.dart';
 
 class ClockUi extends StatefulWidget {
   final double totalWidth;
-
   final double totalHeigh;
 
   const ClockUi({
